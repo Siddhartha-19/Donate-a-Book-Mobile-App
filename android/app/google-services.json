@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123099402328",
+    "project_id": "donate-a-book-283d2",
+    "storage_bucket": "donate-a-book-283d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123099402328:android:3605ba6ec4f032df2bba2d",
+        "android_client_info": {
+          "package_name": "com.example.finalyear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123099402328-j98lhcvf1319hq03pg4omen3eoi5qc8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBtpeE4ZDBY5OQW5xMl_5BaLR6uiZBDHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123099402328-j98lhcvf1319hq03pg4omen3eoi5qc8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
